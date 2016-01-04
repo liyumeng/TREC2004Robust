@@ -1,0 +1,1220 @@
+<DOC>
+<DOCNO> FR940110-1-00001 </DOCNO>
+<PARENT> FR940110-1-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG FTAG 4702 -->
+
+<!-- PJG STAG 4702 -->
+
+<!-- PJG ITAG l=90 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=90 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=90 g=1 f=1 -->
+&blank;/&blank;Vol. 59, No. 6&blank;/&blank;Monday, January 10, 1994&blank;/&blank;Proposed Rules
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+Vol. 59, No. 6
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=02 g=1 f=1 -->
+Monday, January 10, 1994
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+
+<!-- PJG /FTAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR940110-1-00002 </DOCNO>
+<PARENT> FR940110-1-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4702 -->
+
+<!-- PJG ITAG l=94 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=69 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=50 g=1 f=1 -->
+
+
+<USDEPT>DEPARTMENT OF AGRICULTURE</USDEPT>
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=18 g=1 f=1 -->
+
+<USBUREAU>Agricultural Stabilization and Conservation Service</USBUREAU>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+
+<CFRNO>7 CFR Part 701 </CFRNO>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=91 g=1 f=1 -->
+
+<RINDOCK>RIN 0560&hyph;AD08 </RINDOCK>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+Conservation and Environmental Programs 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<AGENCY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+AGENCY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Agricultural Stabilization and Conservation Service, USDA.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</AGENCY>
+<ACTION>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ACTION:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Proposed rule. 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=59 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</ACTION>
+<SUMMARY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUMMARY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ This proposed rule revises the Agricultural Stabilization and Conservation Service (ASCS) regulations governing
+the Agricultural Conservation Program (ACP), Emergency Conservation Program (ECP), and the Forestry Incentives
+Program (FIP). This proposed rule incorporates amendments made to the ACP, ECP, and FIP; revises procedures to reflect
+current policies; and incorporates the Water Quality Incentive Projects (WQIP) into the ACP.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</SUMMARY>
+<DATE>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+DATES:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Comments must be received on or before February 9, 1994 in order to be assured of consideration.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</DATE>
+<ADDRESS>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ADDRESSES:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Send comments on this proposed rule to Director, Conservation and Environmental Protection Division, United States
+Department of Agriculture (USDA), P.O. Box 2415, Washington, DC 20013&hyph;2415. All written submissions made
+pursuant to this rule will be available for further inspection in room 4714, South Building, USDA, between the hours
+of 8:15 a.m. and 4:45 p.m., Monday through Friday, except holidays.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</ADDRESS>
+<FURTHER>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+FOR FURTHER INFORMATION CONTACT:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Chief, Conservation and Environmental Activities Branch, Conservation and Environmental Protection Division,
+ASCS, USDA, P.O. Box 2415, Washington, DC 20013&hyph;2415, telephone 202&hyph;720&hyph;7333. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FURTHER>
+<SUPPLEM>
+<!-- PJG ITAG l=84 g=1 f=2 -->
+SUPPLEMENTARY INFORMATION:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Paperwork Reduction Act 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Information collection requirements contained in the current regulation at 7 CFR part 701 have been approved by the
+Office of Management and Budget under the provisions of 44 U.S.C. chapter 35 and have been assigned OMB Number 0560&hyph;0082.
+ASCS will resubmit these requirements to OMB for review in light of the amendments set forth in this proposed rule.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+Executive Order 12866 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+This proposed rule is issued in conformance with Executive Order 12866. Based on information compiled by the Department,
+it has been determined that this proposed rule: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(1) Would have an annual effect on the economy of less than $100 million; 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(2) Would not adversely affect in a material way the economy, a sector of the economy, productivity, competition,
+jobs, the environment, public health or safety, or State, local, or tribal governments or communities; 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(3) Would not create a serious inconsistency or otherwise interfere with an action taken or planned by another agency;
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(4) Would not alter the budgetary impact of entitlements, grants, user fees, or loan programs or rights and obligations
+of recipients thereof; and 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(5) Would not raise novel legal or policy issues arising out of legal mandates, the Presidents's priorities, or principles
+set forth in Executive Order 12866.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+Federal Assistance Program 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+The titles and numbers of the Federal Assistance Programs, as found in the Catalog of Federal Domestic Assistance,
+to which this rule applies are: Agricultural Conservation Program (ACP)_10.063; Emergency Conservation Program
+(ECP)_10.054; and Forestry Incentives Program (FIP)_10.064. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+Regulatory Flexibility Act 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+It has been determined that the Regulatory Flexibility Act is not applicable to this rule since ASCS is not required
+by 5 U.S.C. 553 or any other provision of law to publish a notice of proposed rulemaking with respect to the subject matter
+of this rule. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+Environmental Evaluation 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+It has been determined by an environmental evaluation that this action will have no significant impact on the quality
+of the human environment, health, and safety. Therefore, neither an Environmental Assessment nor an Environmental
+Impact Statement is needed. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+Executive Order 12372 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+This program is not subject to the provisions of Executive Order 12372 which requires intergovernmental consultation
+with State and local officials. See the Notice related to 7 CFR part 3015, subpart V, published at 
+<!-- PJG 0012 frnewline -->
+48 FR 29115 (June 24, 1983). 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+Executive Order 12778 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+This proposed rule has been reviewed in accordance with Executive Order 12778. The provisions of this proposed rule
+are not retroactive and preempt State laws to the extent they are not consistent with the provisions of this proposed
+rule. Before any judicial action may be brought regarding the provisions of this proposed rule, the administrative
+appeal provisions of 7 CFR part 780 must be exhausted. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+Background 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+The ACP is authorized generally by Sections 7&hyph;17 of the Soil Conservation and Domestic Allotment Act as amended
+(the Act) (16 U.S.C. 22590g 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+et seq.
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+). The program provides financial and technical assistance to encourage agricultural producers to voluntarily
+perform enduring soil and water conservation, water quality, and pollution abatement measures, including practices
+or programs which are deemed essential to maintain soil productivity, prevent soil depletion, maintain water quality,
+or prevent increased cost of production. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+A WQIP is authorized by the Food, Agriculture, Conservation, and Trade Act of 1990 (16 U.S.C. 3831 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+et seq.
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+). However, Congress funded WQIP as a part of the ACP. Accordingly, the WQIP is a voluntary incentive program conducted
+pursuant to the Act to develop and implement 
+<!-- PJG 0012 frnewline -->
+agricultural water quality protection plans on up to 10 million acres. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SUPPLEM>
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR940110-1-00003 </DOCNO>
+<PARENT> FR940110-1-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4702 -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The ECP is authorized by the Agricultural Credit Act of 1978 (16 U.S.C. 2201 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+et seq.
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+). This program is designed to provide cost-share assistance for emergency restoration work to meet only the critical
+needs of agricultural producers due to drought or other natural disaster. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The FIP is authorized by section 4 of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2103) and is designed
+to increase the nation's supply of timber products from private nonindustrial forest lands. The purpose of FIP is
+to encourage private landowners to apply forestry practices that will provide for afforestation of suitable open
+lands and reforestation of cut-over or other nonstocked forest lands and to encourage intensive multi-purpose forest
+resource management and protection so as to provide for cost-effective timber production and other related forest
+resources needs. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The regulation governing these programs is being restructured and simplified to provide an easier and more effective
+structure for the use of this regulation. The ACP is being revised to: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(1) Incorporate several amendments that have been published in the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+; 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(2) Incorporate the WQIP; 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(3) Clarify that producers wanting to participate with practice WP4, Agricultural Waste Control Facilities, must
+have been in operation for at least 5 years; 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(4) Adjust the LTA payment limitation to reflect that the payment limitation shall be based on the number of years remaining
+on the LTA; and 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(5) reflect that payments shall be based on attribution. The ECP is being revised to: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(1) Reflect that the Disaster Assistance Act of 1989 
+<!-- PJG 0012 frnewline -->
+(16 U.S.C. 2202) authorized assistance for confined livestock operations; and 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(2) Define land subject to frequent damage which is ineligible for cost-share assistance. 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+The FIP is being restructured for clarity. 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Currently, ACP practices are prioritized locally by county Agricultural Stabilization and Conservation committees
+to ensure that the most severe conservation and environmental problems are addressed. However, this county committee
+prioritization process has been criticized as not addressing the most severe conservation and environmental problems.
+Therefore, comments are requested regarding the manner in which ACP practices and allocation of funds could be prioritized
+to achieve greater conservation and environmental benefits at the least Federal cost. Although not exclusive, such
+considerations for prioritization may be based on temporary versus longer-term practices or type of conservation
+or environmental benefit. Further, consideration should be given to whether priorities should be established by
+the National, State, or county Agricultural Stabilization and Conservation Service offices. Moreover, for ACP,
+ECP and FIP, comments are requested on ways in which the programs can best be targeted in order to ensure that public
+benefits, rather than private benefits are maximized with Federal expenditures. For example, the use of ACP for temporary
+practices may not provide large public benefits. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Comments are requested as to whether funds should be targeted toward designated areas with impaired water quality.
+Similarly, cost-share practices could be selected for a region where they will contribute to an identified problem.
+Thus, nutrient management practices would be designated as a cost-share option in areas where nutrients have been
+identified as a water quality problem. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+List of Subjects in 7 CFR Part 701 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Disaster assistance, Forest and forest products, Grant programs_agriculture, Grant programs_natural resources,
+Reporting and recordkeeping requirements, Rural areas, Soil conservation, Water resources, Wildlife.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+For the reasons set forth in the preamble, 7 CFR Part 701 is proposed to be revised to read as follows: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+PART 701_CONSERVATION AND ENVIRONMENTAL PROGRAMS 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=72 g=1 f=1 -->
+Subpart A_General Provisions 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=70 g=1 f=1 -->
+Sec. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=26 g=1 f=1 -->
+701.1&blank;Background. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.2&blank;Administration. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.3&blank;Definitions. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.4&blank;Restriction on program eligibility. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.5&blank;Practice specifications. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.6&blank;Responsibility for referred technical phases of practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR940110-1-00004 </DOCNO>
+<PARENT> FR940110-1-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4702 -->
+
+<!-- PJG ITAG l=26 g=1 f=1 -->
+701.7&blank;Items of costs on which rates of cost-share assistance may be based. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.8&blank;Repair, upkeep, and maintenance of practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.9&blank;Public benefits when installing practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.10&blank;Payments for uncompleted practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.11&blank;Practices involving the establishment or improvement of vegetative cover. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.12&blank;Failure to meet minimum requirements or failure to comply fully with program provisions. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.13&blank;Practices carried out with aid from ineligible persons. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.14&blank;Division of cost-share assistance. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.15&blank;Applying cost-share assistance limitations. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.16&blank;Persons eligible to file application for payment of cost-share assistance. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.17&blank;Time and manner of filing application and required information. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.18&blank;Death, incompetency, or disappearance. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.19&blank;Appeals. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.20&blank;Performance based on advice or action of COC or STC.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.21&blank;Compliance with regulatory measures. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.22&blank;Maintenance and use of practice. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.23&blank;Actions defeating purpose of program. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.24&blank;Depriving others of cost-share assistance. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.25&blank;Filing false claims. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.26&blank;Cost-share assistance not subject to claims. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.27&blank;Assignments. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.28&blank;Environmental considerations. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.29&blank;Information collection requirements. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.30&hyph;701.99&blank;[Reserved] 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=72 g=1 f=1 -->
+Subpart B_Agricultural Conservation Program 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=26 g=1 f=1 -->
+701.100&blank;Program objective. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.101&blank;State funds. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.102&blank;County funds. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.103&blank;Availability of funds. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.104&blank;Eligible person. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.105&blank;Eligible land. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.106&blank;Conservation practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.107&blank;County programs. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.108&blank;State programs. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.109&blank;Selection of practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.110&blank;Levels and rates of cost-share assistance. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.111&blank;Starting practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.112&blank;Method of approval.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.113&blank;Long-term agreements. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.114&blank;Replacement, enlargement, or restoration. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.115&blank;Pooling agreements. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.116&blank;Special provisions for low-income farmers and 
+<!-- PJG 0012 frnewline -->
+ranchers. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.117&blank;Maximum cost-share assistance limitation. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.118&blank;Completion of practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.119&blank;Time of filing payment application. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.120&blank;Water Quality Incentive Projects. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.121&hyph;701.199&blank;[Reserved] 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=72 g=1 f=1 -->
+Subpart C_Emergency Conservation Program 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=26 g=1 f=1 -->
+701.200&blank;Program objective. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.201&blank;Program availability. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.202&blank;Eligibility of person and land. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.203&blank;Emergency Conservation Program practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.204&blank;Practice approval. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.205&blank;Extent of cost-share assistance. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.206&blank;Eligible costs. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.207&blank;Filing requests. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.208&blank;Approving requests. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.209&blank;Pooling agreements. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.210&blank;Payment approval. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+701.211&hyph;701.299&blank;[Reserved] 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=72 g=1 f=1 -->
+Subpart D_Forestry Incentives Program 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=26 g=1 f=1 -->
+701.300&blank;Program objective. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR940110-1-00005 </DOCNO>
+<PARENT> FR940110-1-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4702 -->
+
+<!-- PJG ITAG l=26 g=1 f=1 -->
+701.301&blank;Designated counties. 
+<!-- PJG 0012 frnewline -->
+701.302&blank;Eligible person, land, and ownerships. 
+<!-- PJG 0012 frnewline -->
+701.303&blank;Program funds. 
+<!-- PJG 0012 frnewline -->
+701.304&blank;Eligible practices and cost-share assistance requirements. 
+<!-- PJG 0012 frnewline -->
+701.305&blank;The national FIP. 
+<!-- PJG 0012 frnewline -->
+701.306&blank;Development of State FIP. 
+<!-- PJG 0012 frnewline -->
+701.307&blank;Development of county FIP. 
+<!-- PJG 0012 frnewline -->
+701.308&blank;Adaptation of practices. 
+<!-- PJG 0012 frnewline -->
+701.309&blank;Levels and rates of cost-share assistance. 
+<!-- PJG 0012 frnewline -->
+701.310&blank;Prior approval for cost-share assistance. 
+<!-- PJG 0012 frnewline -->
+701.311&blank;Methods of approval. 
+<!-- PJG 0012 frnewline -->
+701.312&blank;Long-term agreements. 
+<!-- PJG 0012 frnewline -->
+701.313&blank;Restoration of practices. 
+<!-- PJG 0012 frnewline -->
+701.314&blank;FIP maximum cost-share assistance limitations. 
+<!-- PJG 0012 frnewline -->
+701.315&blank;Completion of practice. 
+<!-- PJG 0012 frnewline -->
+701.316&blank;Time of filing payment application. 
+<!-- PJG 0012 frnewline -->
+701.317&hyph;701.399&blank;[Reserved]
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=4 -->
+Authority:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+ 16 U.S.C. 590d, 590g&hyph;590o, 590p(a), 590q, 1501&hyph;1510, 1606, 2101&hyph;2111, 2201&hyph;2205, 3831;
+48 U.S.C. 1469d(c). 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+Subpart A_General Provisions 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=80 g=1 f=1 -->
+&sect;701.1 Background. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+(a) Through the conservation and environmental programs administered by the Department of Agriculture, the Federal
+Government will share with farmers, ranchers, and other eligible private landowners in the United States and the
+applicable territories and possessions of the United States, the cost of performing: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(1) Approved soil and water conservation, water quality, and pollution abatement practices including related wildlife
+conservation practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(2) Emergency conservation measures. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(3) Approved forestry practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(b) The Federal Government will provide incentive payments to farmers, ranchers, and other private landowners in
+applicable areas of the United States to establish Water Quality Incentive Projects (WQIP) practices. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(c) Cost-share assistance or incentive payments may be made available to eligible program participants by the Agricultural
+Stabilization and Conservation Service (ASCS) for: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(1) Soil and water conservation, water quality, and pollution abatement practices under the Agricultural Conservation
+Program (ACP) which includes WQIP. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(2) Practices to correct damage to land or conservation practices caused by natural disaster under the Emergency
+Conservation Program (ECP). 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(3) Installation of water conservation measures under the ECP during periods of severe drought. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(4) Forestry practices under the ACP and the Forestry Incentives Program (FIP). 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(d) Information on the practices for which costs will be shared, the exact specifications and rates of cost-share
+assistance for such practices, and the eligibility 
+<!-- PJG 0012 frnewline -->
+requirements for participating in the programs, may be obtained from the County Agricultural Stabilization and
+Conservation (ASC) Committee (county committee) for the county in which the farm, ranch, or other eligible land is
+administered or from the State ASC committee (State committee) for the State in which such county is located. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(e) The provisions at subpart A apply to the programs specified in subparts B through D. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=80 g=1 f=1 -->
+&sect;701.2
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=89 g=1 f=1 -->
+Administration. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+(a) The regulations in this part will be administered under the general supervision of the Administrator, ASCS and
+shall be carried out in the field by State and county Agricultural Stabilization and Conservation committees (State
+and county ASC committees). 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(b) State and county ASC committees, and representatives and employees thereof do not have the authority to modify
+or waive any of the provisions of the regulations of this part. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(c) The State ASC committee shall take any action required by these regulations which has not been taken by the county
+ASC committee. The State ASC committee shall also: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(1) Correct, or require a county ASC committee to correct any action taken by such county ASC committee which is not
+in accordance with the regulations of this part, or 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(2) Require a county ASC committee to withhold taking any action which is not in accordance with the regulations of
+this part. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(d) No provision or delegation herein to a State or county ASC committee shall preclude the Administrator, ASCS, or
+a designee, from determining any question arising under the regulations of this part or from reversing or modifying
+any determination made by a State or county ASC committee. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=80 g=1 f=1 -->
+&sect;701.3 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=89 g=1 f=1 -->
+Definitions. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+(a) The terms defined in part 719 of this chapter shall be applicable to this part and all documents issued in accordance
+with this part, except as otherwise provided in this section. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(b) The following definitions shall apply to this part: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+ACP 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+means the Agricultural Conservation Program. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+Applicant 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+means a person who submits to ASCS an intention to participate in a cost-share program. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+ASCS
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ means the Agricultural Stabilization and Conservation Service of the United States Department of Agriculture.
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>

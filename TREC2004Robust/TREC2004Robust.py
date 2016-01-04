@@ -202,7 +202,7 @@ def CreateDocVector(term_inverter_file,content_list_file,doc_vector_file):
         i+=1
     f_inverter.close()
     print u'总词数:%d' % len(term_dict)
-    return
+
     f_doc_vector = open(doc_vector_file,'w')
     f_content = open(content_list_file)
     tmp = True
@@ -247,13 +247,15 @@ def Search(*args):
         term = raw_input()
         searcher.search(term)
 
-def PreDealTopics(topic_file):
-    dir = ur'd:\新生训练'
+def PreDealTopics(topic_file,output_dir):
     worker = pre_worker(None,None,None)
     topic_list = worker.parse_topic(topic_file)
-    write_all_text(dir + ur'\pre_dealer\topic_name.txt','\n'.join([topic[0] for topic in topic_list]))
-    write_all_text(dir + ur'\pre_dealer\topic_content.txt','\n'.join([topic[1] for topic in topic_list]))
+    topicNameFile=output_dir + ur'\topic_name.txt'
+    topicContentFile=output_dir + ur'\topic_content.txt'
+    write_all_text(topicNameFile,'\n'.join([topic[0] for topic in topic_list]))
+    write_all_text(topicContentFile,'\n'.join([topic[1] for topic in topic_list]))
     print u'查询集处理完毕'
+    return (topicNameFile,topicContentFile)
 
 def LoadTopics(topic_name_f,topic_content_f):
     (topic_list,term_doc_count) = Topic.LoadTopicList(topic_name_f,topic_content_f)
@@ -334,8 +336,7 @@ def ToBinary(doc_vector_file):
     f_bin.close()
 
 #将doc_vector直接转换成倒排索引
-def ConvertDocVectorToTermVector(doc_vector_file):
-    term_vector_file = ur'd:\新生训练\pre_dealer\term_vector.txt'
+def ConvertDocVectorToTermVector(doc_vector_file,term_vector_file):
     f_vector = open(term_vector_file,'w')
     f_index = open(term_vector_file + '.index','w')
     begin = 0
@@ -389,11 +390,10 @@ def ConvertDocVectorToTermVector(doc_vector_file):
     f_index.close()
     print u'已保存%s' % f_vector.name
 
-def CreateTermName():
-    dir = ur'd:\新生训练\pre_dealer'
-    content = get_all_text(dir + '\\term_inverter.txt.high.index')
+def CreateTermName(dir,term_name_file):
+    content = get_all_text(dir + '\\term_inverter_index_file.txt.high.index')
     names = [item.split(':')[0] for item in content.split(',') if item is not '']
-    write_all_text(dir + '\\term_name.txt','\n'.join(names))
+    write_all_text(term_name_file,'\n'.join(names))
 
 def WriteResult(doc_result,topic_id,f_result,searcher):
     count = 0
@@ -421,31 +421,36 @@ def main():
     #term的倒排索引，格式为term,总频次,{docid,docid...}
     term_inverter_index_file = os.path.join(OUTPUT_DIR,'term_inverter_index_file.txt')
 
-    doc_vector_file = ur'f:\datasets\2016output\doc_vector.txt.bin'
+    doc_vector_file = ur'f:\datasets\2016output\doc_vector.txt'
     
     term_vector_file = ur'f:\datasets\2016output\term_vector.txt'
     term_name_file = ur'f:\datasets\2016output\term_name.txt'
     result_file = ur'f:\datasets\2016output\result.txt'
     start_time = time.clock()
 
-    #CreateTermName()
     
     PreDealThread(input_dir_list,doc_name_file,raw_term_list_file)
-    """
+
     SingleThread(raw_term_list_file,doc_name_file)
     ReduceSingleThread(raw_term_list_file + '.single')
     
     MergeThread('tmp',term_inverter_index_file)
     DivideByFreqThread(term_inverter_index_file,5)
     RemoveLowWords(term_inverter_index_file + '.low',raw_term_list_file + '.single')
+
+     
     CreateDocVector(term_inverter_index_file + '.high',raw_term_list_file + '.single.high',doc_vector_file)
-    """
-    #ConvertDocVectorToTermVector(doc_vector_file)
+
+    ToBinary(doc_vector_file)
+
+    ConvertDocVectorToTermVector(doc_vector_file+".bin",term_vector_file)
     
-    #ToBinary(doc_vector_file)
-    #PreDealTopics(topic_file)
-    """
-    topic_list = LoadTopics(dir + ur'\pre_dealer\topic_name.txt',dir + ur'\pre_dealer\topic_content.txt')
+
+    CreateTermName(OUTPUT_DIR,term_name_file)
+    
+    topic_files=PreDealTopics(topic_file,OUTPUT_DIR)
+    
+    topic_list = LoadTopics(topic_files[0],topic_files[1])
     searcher = Searcher2(term_vector_file,term_name_file)
     f_result = open(result_file,'w')
     searcher.loadDocNames(doc_name_file)
@@ -454,7 +459,7 @@ def main():
         WriteResult(doc_result,topic.id,f_result,searcher)
     f_result.close()
     print u'共耗时：%.2f分钟' % (1.0 * (time.clock() - start_time) / 60)
-    """
+
 
 if __name__ == '__main__':
     main()
